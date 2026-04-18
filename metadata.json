@@ -1,0 +1,6 @@
+{
+  "name": "AI Bible Q&A",
+  "description": "A sophisticated Bible Q&A engine featuring RAG (Retrieval-Augmented Generation), user authentication, and conversation memory using Gemini and Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
